@@ -4,11 +4,11 @@ I am shivam johari. My main interest lies in Machine Learning ,Computer vision a
 
 
 - 🔭 I’m currently working on my machine learning projects.
-- 🌱 I’m currently learning computer vision (opencv)
-- 👯 I’m looking to collaborate on data science projects
+- 🌱 I’m currently learning computer vision (opencv).
+- 👯 I’m looking to collaborate on data science projects.
 - 🤔 I’m looking for help with more projects in this area of field.
-- 💬 Ask me about machine learning,deep learning,python,tableau
+- 💬 Ask me about machine learning,deep learning,python,tableau.
 - 📫 How to reach me: linkedIn profile : www.linkedin.com/in/shivam-johari-2097571b8   mail id : shivam.johari31@gmail.com
-- 😄 Pronouns: you may provide me one
-- ⚡ Fun fact: I never gets frustated while doing coding
+- 😄 Pronouns: you may provide me one.
+- ⚡ Fun fact: I never gets frustated while doing coding.
 
